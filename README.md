@@ -129,11 +129,10 @@ if __name__ == "__main__":
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test2.jpg)
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test3.jpg)
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test4.jpg)
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test5.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/1.png)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/2.png)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/3.png)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/4.png)
 
 ## Выводы
 

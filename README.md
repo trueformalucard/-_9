@@ -171,7 +171,7 @@ person2.surname = 'Петров'
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/theme9lab1.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/%D0%BB1.png)
 
 ## Выводы
 __slots__ = ['name'] - ограничивает возможные атрибуты только именем
@@ -200,7 +200,7 @@ ice2.check_topping()
 ice3.check_topping()
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/theme9lab2.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/%D0%BB2.png)
 
 ## Выводы
 isinstance(self.topping, str) - проверяет что топпинг является строкой
@@ -230,7 +230,7 @@ print(student.get_name())
 del student
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/theme9lab3.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/%D0%BB3.png)
 
 ## Выводы
 self.__name - защищенный атрибут (инкапсуляция)
@@ -260,7 +260,7 @@ print(f"Кошка: {cat.type}, говорит: {cat.sound}")
 print(f"Собака: {dog.type}, говорит: {dog.sound}")
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/theme9lab4.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/%D0%BB4.png)
 
 ## Выводы
 class Cat(Mammal) - наследование от класса Mammal
@@ -290,7 +290,7 @@ show_greeting(russian)
 show_greeting(english)
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/theme9lab5.jpg)
+![Меню](https://github.com/trueformalucard/-_9/blob/%D0%A2%D0%B5%D0%BC%D0%B0%2B9/%D0%BB5.png)
 
 ## Выводы
 @staticmethod - декоратор для статического метода
